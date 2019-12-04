@@ -94,3 +94,7 @@ Ex. Generic data packer: Compression and protection
 
 Ex. Generic data unpacker and viewer
 
+
+#### Questions you will be able to answer after this course:
+
+
