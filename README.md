@@ -1,13 +1,14 @@
 # MASTERS of DATA
 
-**WARNING: This outline is just a draft for a course proposal, it's under development and very prone to changes.**
+_**WARNING: This outline is just a draft for a course proposal, it's under development and very prone to changes.**_
 
 Here it is the course for MASTERS of DATA. A course oriented to **Technical Designers**, **Technical Artists** and any **game developer** that wants to understand and control game data to the last bit.
 
 In this course you will learn to:
 
  - **Understand your data:** How data is organized, what is contained in every data file of your game.
- - **Visualize and process your data:** Read multiple data files, extract the data you need and edit that data programatically.
+ - **Process your data:** Read multiple data files, extract the data you need and edit that data programatically.
+ - **Visualize your data:** Create custom tools to display images, audio, text, models and any kind of data.
  - **Save and Protect your data:** Design a custom file format, export your data to format, compress and codify your data.
  - **Automatize processes:** Create custom tools to read/write big bulks of data, define a command-line interface.
  - **Optimization techniques:** How to get the most of your data for every situation and for every platform.
