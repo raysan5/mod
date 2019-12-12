@@ -1,3 +1,5 @@
+![](mod_title.png)
+
 # MASTERS of DATA
 
 _**WARNING: This outline is just a draft for a course proposal, it's under development and very prone to changes.**_
