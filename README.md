@@ -1,4 +1,4 @@
-![](mod_title.png)
+![](mod.png)
 
 # MASTERS of DATA
 
@@ -48,7 +48,8 @@ In this course you will learn to:
    - Ex. Writting a custom file format writer **[3h]**
    - Ex. Reading a custom file format **[3h]**
    
- - Visualizing data 101 (IMGUI introduction) **[3h]**
+ - Visualizing data 101: IMGUI introduction **[3h]**
+ - Visualizing data: tools development basis **[3h]**
       
    - Ex. Viewing custom data: Image **[3h]**
    - Ex. Viewing custom data: Audio **[3h]**
@@ -62,6 +63,7 @@ In this course you will learn to:
    - Ex. Process audio data (sample rate, sample size, normalize...) **[3h]**
    - Ex. Process model data (optimize vertex attributes) **[3h]**
    - Ex. Process text data (convert text to image) **[3h]**
+   - Ex. Process image and text data (steganography) **[3h]**
 
 ## AUTOMATIZING PROCESSES
 
