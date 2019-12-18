@@ -40,6 +40,8 @@ In this course you will learn to:
    - Ex. Reading OBJ file (no external libs) **[3h]**
    - Ex. Reading IQM skeletal animation data **[3h]**
    - Ex. Writing custom model format **[3h]**
+ 
+ - Packing models data for Data Oriented Design: SoA vs AoS **[3h]**
 
 ## VIEWING & PROCESSING GAME DATA
 
@@ -75,5 +77,3 @@ In this course you will learn to:
    - Ex. Image directory batch processing **[3h]**
    - Ex. Data packer: Compression and protection **[3h]**
    - Ex. Data unpacker and viewer **[3h]**
-
-*TODO.*
