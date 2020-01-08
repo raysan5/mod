@@ -2,18 +2,16 @@
 
 # MASTERS of DATA
 
-_**WARNING: This outline is just a draft for a course proposal, it's under development and very prone to changes.**_
-
-Here it is the course for MASTERS of DATA. A course oriented to **Technical Designers**, **Technical Artists** and any **game developer** that wants to understand and control game data to the last bit.
+Welcome to MASTERS of DATA. A course oriented to **Technical Designers**, **Technical Artists** and any **game developer** that wants to understand and control game data to the last bit.
 
 In this course you will learn to:
 
- - **Understand your data:** How data is organized, what is contained in every data file of your game.
+ - **Understand your data:** How game data is organized, what is contained in every data file of your game.
  - **Process your data:** Read multiple data files, extract the data you need and edit that data programatically.
- - **Visualize your data:** Create custom tools to display images, audio, text, models and any kind of data.
- - **Save and Protect your data:** Design a custom file format, export your data to format, compress and codify your data.
- - **Automatize processes:** Create custom tools to read/write big bulks of data, define a command-line interface.
- - **Optimization techniques:** How to get the most of your data for every situation and for every platform.
+ - **Optimize your data:** Reduce size, improve quality, get the best results for every situation and for platform.
+ - **Visualize your data:** Create custom tools to display your data: images, audio, text, models... any kind of data.
+ - **Protect your data:** Design a custom file format and export your data to it, compress and codify your data.
+ - **Automatize processes:** Create custom tools to read/write big bulks of data in batch, define a command-line interface.
  
 ## UNDERSTANDING GAME DATA
 
@@ -21,26 +19,30 @@ In this course you will learn to:
  - Data packing: from Header to EOF **[3h]**
  - Basic data compression and protection **[3h]**
  - Image data: from colors to pixels **[3h]**
+ - Image data: optimization techniques **[3h]**
  
    - Ex. Reading BMP file (no external libs) **[3h]**
    - Ex. Reading PNG file (no external libs) **[3h]**
-
+   
  - Audio data: from waves to samples **[3h]**
-
+ - Audio data: optimization techniques **[3h]**
+ 
    - Ex. Reading WAV file (no external libs) **[3h]**
-
+   
  - Text data: from codes to encoding **[3h]**
+ - Text data: optimization techniques **[3h]**
  
    - Ex. Reading and writting UTF-8 text **[3h]**
    - Ex. Rendering glyphs from font **[3h]**
    - Ex. Font atlas generation **[3h]**
-
- - Models data: from vertex to bones **[3h]**
    
+ - Models data: from vertex to bones **[3h]**
+ - Models data: optimization techniques **[3h]**
+ 
    - Ex. Reading OBJ file (no external libs) **[3h]**
    - Ex. Reading IQM skeletal animation data **[3h]**
    - Ex. Writing custom model format **[3h]**
- 
+   
  - Packing models data for Data Oriented Design: SoA vs AoS **[3h]**
 
 ## VIEWING & PROCESSING GAME DATA
